@@ -8,10 +8,10 @@
 O codigo faz uma requisição ao site do VIACEP através da sua API, com isso ele consegue retornar o CEP em formato JSON.
 </p>
 <p align="center">
- <img src="https://github.com/ipedromotta/requisicaocep-Python/blob/main/preview/preview1.png" width="350">
+ <img src="https://github.com/ipedromotta/requisicaocep-Python/blob/main/preview/example1.png" width="350">
 </p>
 <p align="center">
-  <img src="https://github.com/ipedromotta/requisicaocep-Python/blob/main/preview/preview.png" width="350">
+  <img src="https://github.com/ipedromotta/requisicaocep-Python/blob/main/preview/example2.png" width="350">
 </p>
 <p align="center"> 
 
@@ -20,4 +20,4 @@ O codigo faz uma requisição ao site do VIACEP através da sua API, com isso el
 Para o desenvolvimento desse projeto foram utilizadas as seguintes tecnologias:
 
 * Python;
-* PySimpleGUI.
+* PyQt5.
